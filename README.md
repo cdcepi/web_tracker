@@ -2,7 +2,7 @@ This repository is to report any kind of issue with the [EPI web application](ht
 
 # Reporting Issues
 
-File a report [here](https://https://github.com/cdcepi/web_tracker/issues). A good report has the following format and a descriptive title:
+File a report [here](https://github.com/cdcepi/web_tracker/issues). A good report has the following format and a descriptive title:
 
 #### Description of problem
 (...)
