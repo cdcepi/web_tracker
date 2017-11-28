@@ -1,4 +1,4 @@
-This repository is to report any kind of issue with the [EPI web application](http://predict.phiresearchlab.org). Account issues are still going to be handled over email for your privacy.
+This repository is to report any kind of issue with the [EPI web application](http://predict.phiresearchlab.org). Account issues are still going to be handled over email for your privacy. Please respond within a week.
 
 # Reporting Issues
 
